@@ -29,10 +29,10 @@ Responsibilities: bug fixing, development of new functionality, a little support
 Before system administrator, low-voltage systems engineer in different companies 
 
 ## Skills: 
-•	Java Core, OOP, code conventions; 
-•	Spring Framework; 
-•	JPA, JDBC, Hibernate; 
-•	MongoDB, MySQL, Oracle SQL, PostgreSQL, MsSQL, Redis; 
+* Java Core, OOP, code conventions; 
+* Spring Framework; 
+* JPA, JDBC, Hibernate; 
+* MongoDB, MySQL, Oracle SQL, PostgreSQL, MsSQL, Redis; 
 •	Maven, Gradle; 
 •	Tomcat, Jetty; 
 •	Git, SVN; 
