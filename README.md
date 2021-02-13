@@ -33,10 +33,10 @@ Before system administrator, low-voltage systems engineer in different companies
 * Spring Framework; 
 * JPA, JDBC, Hibernate; 
 * MongoDB, MySQL, Oracle SQL, PostgreSQL, MsSQL, Redis; 
-•	Maven, Gradle; 
-•	Tomcat, Jetty; 
-•	Git, SVN; 
-•	Scrum, Kanban; 
+* Maven, Gradle; 
+* Tomcat, Jetty; 
+* Git, SVN; 
+* Scrum, Kanban; 
 
 ## Education:  
 Higher (2009-2013)  	**Open International University of Human Development “Ukraine”** 
